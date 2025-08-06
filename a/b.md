@@ -4,5 +4,5 @@ syntax: markdown/1.2
 ---
 a
 
-![](a/.b/attachments/small.png)
+![](/a/.b/attachments/small.png)
 
